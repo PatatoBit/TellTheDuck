@@ -52,10 +52,13 @@
             <iframe
               class="w-full my-2 rounded-xl"
               height="302"
-              src="https://www.youtube.com/embed/6Z2oE8-uthU"
+              src="https://www.youtube.com/embed/xAPIjhkXF-0"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+              allowfullscreen
+              ></iframe>
+
+              
           </div>
         </div>
       </div>
