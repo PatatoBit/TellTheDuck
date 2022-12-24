@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Meta from '../components/Meta.svelte';
 	import Duck from '../components/Duck.svelte';
 	import '../styles/index.scss';
 
@@ -6,6 +7,8 @@
 </script>
 
 <main>
+	<Meta />
+
 	<Duck />
 
 	<div class="user">
